@@ -1,0 +1,25 @@
+   xxxxxx
+   xxxxxx
+xxx|xxxxxx|xxx
+exxxx|xxxx|xxxx
+xxx|x|xxxx|xxxe
+ exxx|xxxxx|xxx
+xxx|xxxxx|x|xxx
+exxxx|xxxx|xxxx
+xxx|xxxxxx|xxx
+   xx|xx|xx
+   xx  xx
+
+   _e__e_
+         
+____ __ __e_
+    _  _    
+         ___
+___      ___
+___         
+            
+    _  _    
+_e__    ____
+     ee  
+   __  __    
+
